@@ -19,4 +19,4 @@ The assignment focuses on showcasing a database containing information about job
 
 - This assignment is part of the Data Skill Bootcamp.
 
-Feel free to explore the repository.
+[View Tableau Visualization](https://public.tableau.com/views/UKIndustry2011-2014/UKIndustries2011-2014?:language=en-GB&:display_count=n&:origin=viz_share_link)
